@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/harshak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harsha5500.github.io
+  * I am harshak (https://keybase.io/harshak) on keybase.
+  * I have a public key ASAyDVomusNQUoRpWqGX6owpin68LMAY583kvAMo67dhago
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011167600da89690dc6ffc4986c370b81d9c609250740fe10954ad7c2f2dcfa4240a",
+            "host": "keybase.io",
+            "kid": "0120320d5a26bac3505284695aa197ea8c298a7ebc2cc018e7cde4bc0328ebb7616a0a",
+            "uid": "f0cd39fc744e4905f8ee264f70f79519",
+            "username": "harshak"
+        },
+        "service": {
+            "hostname": "harsha5500.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491475389,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491475334,
+        "hash": "605c11eb5f69e9b69ec6069644e8e5c3d5501e7dbc9487409071432e08887e17c7a3d74bb20bba4f2665a0ea31f6d88f424ac4b950f719acc88e722af561bc1a",
+        "seqno": 1002549
+    },
+    "prev": "37d48bb33843515c12accb09b41159c94bc69a4d25148ccceb4a875cea932247",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMg1aJrrDUFKEaVqhl+qMKYp+vCzAGOfN5LwDKOu3YWoKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTE2NzYwMGRhODk2OTBkYzZmZmM0OTg2YzM3MGI4MWQ5YzYwOTI1MDc0MGZlMTA5NTRhZDdjMmYyZGNmYTQyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzIwZDVhMjZiYWMzNTA1Mjg0Njk1YWExOTdlYThjMjk4YTdlYmMyY2MwMThlN2NkZTRiYzAzMjhlYmI3NjE2YTBhIiwidWlkIjoiZjBjZDM5ZmM3NDRlNDkwNWY4ZWUyNjRmNzBmNzk1MTkiLCJ1c2VybmFtZSI6ImhhcnNoYWsifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImhhcnNoYTU1MDAuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTE0NzUzODksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MTQ3NTMzNCwiaGFzaCI6IjYwNWMxMWViNWY2OWU5YjY5ZWM2MDY5NjQ0ZThlNWMzZDU1MDFlN2RiYzk0ODc0MDkwNzE0MzJlMDg4ODdlMTdjN2EzZDc0YmIyMGJiYTRmMjY2NWEwZWEzMWY2ZDg4ZjQyNGFjNGI5NTBmNzE5YWNjODhlNzIyYWY1NjFiYzFhIiwic2Vxbm8iOjEwMDI1NDl9LCJwcmV2IjoiMzdkNDhiYjMzODQzNTE1YzEyYWNjYjA5YjQxMTU5Yzk0YmM2OWE0ZDI1MTQ4Y2NjZWI0YTg3NWNlYTkzMjI0NyIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBZ33WzFVFApV4PXx5b5388YeJIYWaaLIo9LXCF9zKRBwilgLRH0v/AV1MFZdM7ot+ZJ5rWwu5k8Nxdjs+j8foLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgWn0JnOpAb7iOxhEZ1j0xb5Dp8tHrGqcoN/cYGmwPTdCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harshak
+
+==================================================================
