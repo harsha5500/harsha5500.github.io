@@ -4,9 +4,9 @@ https://keybase.io/harshak
 
 I hereby claim:
 
-  * I am an admin of https://harsha5500.github.io
+  * I am an admin of http://kharsha.com
   * I am harshak (https://keybase.io/harshak) on keybase.
-  * I have a public key ASBGpumz1H5-ATUdvP8ECXqK9mzGF-1UPv0AGzRxSe4pfQo
+  * I have a public key ASDFgbv67FMwmjuPZJqYcDTTX9JpLYviDaF4YxRk0AD-Ggo
 
 To do so, I am signing this object:
 
@@ -15,37 +15,38 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "01011167600da89690dc6ffc4986c370b81d9c609250740fe10954ad7c2f2dcfa4240a",
       "host": "keybase.io",
-      "kid": "012046a6e9b3d47e7e01351dbcff04097a8af66cc617ed543efd001b347149ee297d0a",
+      "kid": "0120c581bbfaec53309a3b8f649a987034d35fd2692d8be20da178631464d000fe1a0a",
       "uid": "f0cd39fc744e4905f8ee264f70f79519",
       "username": "harshak"
     },
     "merkle_root": {
-      "ctime": 1515313656,
-      "hash": "a165acbd57ac8b3cba0183c6378e58fcf027eace5ae19d176d80995b4339d84ddbae63f0b90c478b56d30e3f5228fa7388693baa5eb6aeb6d3f56e10b0292887",
-      "hash_meta": "4ec999759898c0ca0bf773b67c2c395eb4fabef535bb2cce7feaeca7407bfc9b",
-      "seqno": 1895895
+      "ctime": 1535268670,
+      "hash": "6c77e425274eee8631ea17a04eef6fb7f2a75cb0369bf5d757da4b1d9eb651b4188fc455193fd5e2fa9a655fd674c3d1ba9a55ae04154a5da10b22dd0aceaabd",
+      "hash_meta": "0858467b3158db7b45abbf0ec5f7a5b008f1b0efb21eabbc34c0d56894578f66",
+      "seqno": 3517052
     },
     "service": {
-      "hostname": "harsha5500.github.io",
-      "protocol": "https:"
+      "entropy": "udlfCxyLXgQTv8NQRXKiOvmP",
+      "hostname": "kharsha.com",
+      "protocol": "http:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.38"
+    "version": "2.5.0"
   },
-  "ctime": 1515313697,
+  "ctime": 1535268686,
   "expire_in": 504576000,
-  "prev": "51c26285820cdfe690c8eef77d51a910cc7850fa5aa5750ecef3ca4ef378867f",
-  "seqno": 40,
+  "prev": "de7aa71452573865a2e7cbcc80ae96641ff00523bdb13b6ecbd52a6b6dc2d9c0",
+  "seqno": 67,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRqbps9R+fgE1Hbz/BAl6ivZsxhftVD79ABs0cUnuKX0Kp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTE2NzYwMGRhODk2OTBkYzZmZmM0OTg2YzM3MGI4MWQ5YzYwOTI1MDc0MGZlMTA5NTRhZDdjMmYyZGNmYTQyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDZhNmU5YjNkNDdlN2UwMTM1MWRiY2ZmMDQwOTdhOGFmNjZjYzYxN2VkNTQzZWZkMDAxYjM0NzE0OWVlMjk3ZDBhIiwidWlkIjoiZjBjZDM5ZmM3NDRlNDkwNWY4ZWUyNjRmNzBmNzk1MTkiLCJ1c2VybmFtZSI6ImhhcnNoYWsifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTUzMTM2NTYsImhhc2giOiJhMTY1YWNiZDU3YWM4YjNjYmEwMTgzYzYzNzhlNThmY2YwMjdlYWNlNWFlMTlkMTc2ZDgwOTk1YjQzMzlkODRkZGJhZTYzZjBiOTBjNDc4YjU2ZDMwZTNmNTIyOGZhNzM4ODY5M2JhYTVlYjZhZWI2ZDNmNTZlMTBiMDI5Mjg4NyIsImhhc2hfbWV0YSI6IjRlYzk5OTc1OTg5OGMwY2EwYmY3NzNiNjdjMmMzOTVlYjRmYWJlZjUzNWJiMmNjZTdmZWFlY2E3NDA3YmZjOWIiLCJzZXFubyI6MTg5NTg5NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJoYXJzaGE1NTAwLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE1MzEzNjk3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjUxYzI2Mjg1ODIwY2RmZTY5MGM4ZWVmNzdkNTFhOTEwY2M3ODUwZmE1YWE1NzUwZWNlZjNjYTRlZjM3ODg2N2YiLCJzZXFubyI6NDAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA+y2ZKbtktC4j4l4uCUoontMg5r7R4SCOTzlmROZXywQqkH63EdNgqe2V1mR954HhL7RGXqgsPXEJvVwVnTY0BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBKmHgilfoE1Y2WLeGZNkh6nO1rgXQQCzkOe/PMuOp+So3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxYG7+uxTMJo7j2SamHA001/SaS2L4g2heGMUZNAA/hoKp3BheWxvYWTESpcCQ8Qg3nqnFFJXOGWi58vMgK6WZB/wBSO9sTtuy9Uqa23C2cDEIE4kbvCy+aeXGuIhrcU2PmvPyDWoxoe4k7dQerNJj1t/AgHCo3NpZ8RA+W7uj8NYl8AZ7VYBBOjyRCgT1p2+pPd1td0peTtepBPMplcHc/G+0EMQhbYvpy2IcIcRUqNAC4fhLZ83JFjiBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINIqyCKTqhv+nDu1H5qImbkYYVite+6ipf2aeJEQl/4yo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
