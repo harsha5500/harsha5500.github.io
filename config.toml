@@ -1,0 +1,4 @@
+baseURL = 'https://kharsha.com/'
+languageCode = 'en-us'
+title = 'Harsha K'
+theme = "papermod"
