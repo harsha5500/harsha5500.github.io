@@ -2,3 +2,84 @@ baseURL = 'https://kharsha.com/'
 languageCode = 'en-us'
 title = 'Harsha K'
 theme = "papermod"
+paginate = 5
+enableRobotsTXT = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Harsha K"
+description = "My Site"
+keywords = ["Blog", "Portfolio", "Research"]
+author = "Harsha"
+images = ["<link or path of image for opengraph, twitter-cards>"]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.assets]
+favicon = "static/img/favicon.ico"
+favicon16x16 = "static/img/favicon16x16.png"
+favicon32x32 = "static/img/favicon32x32.png"
+apple_touch_icon = "static/img/apple_touch_icon.png"
+safari_pinned_tab = "static/img/apple_touch_icon.png"
+
+
+[params.label]
+text = "Harsha K"
+# icon = "static/img/apple_touch_icon.png"
+# iconHeight = 35
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/harsha5550"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/harsha5500"
+
+[[params.socialIcons]]
+name = "gitlab"
+url = "https://gitlab.com/harsha5500"
+
+#[params.cover]
+#hidden = true
+#hiddenInList = true
+#hiddenInSingle = true
+
+[params.homeInfoParams]
+title = "Hello"
+content = "I develop simulation tools for generating what-if scenarios for decision making. I predominantly use Agent-Based Modelling (ABM) technique as most of my simulations model complex systems. In some cases, I have also extended existing tools to build a new model for a system. The tools are meant for research purposes and I follow industry friendly development mechanisms, such as unit-tests, automated builds and delivery on cloud platforms to the extent possible."
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
