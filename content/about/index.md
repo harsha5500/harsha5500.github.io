@@ -24,6 +24,7 @@ disableHLJS: true # to disable highlightjs
 - Harsha Krishna, Onkar Hoysala, Murali Krishna G., Bharath M. Palavalli and Eswaran Subrahmanian, "Modelling technology, policy and behaviour to manage electricity consumption", accepted in _IEEE Region 10 Humanitarian Technology Conference, 2014, Chennai._
 - Onkar Hoysala, Harsha Krishna, Bharath M. Palavalli, "A Multi-Agent Approach to Assess Geo-spatial Interoperability for Disaster Management in India", published in _Proceedings of the NSDI, 2013, Mumbai._
 = Bharath M. Palavalli, Harsha K, Onkar Hoysala, Eswaran Subrahmanian, "Discovering communication protocols for inter-agency collaboration for emergency response", published in _Bonds &amp; Bridges, Proceedings of the ISAGA 2011 Conference._
+- Harsha K, Palavalli, B. M., Rao, S., Ashwin, "Lothlorien: Mandatory access control using linux security modules.", published in _2009 IEEE International Conference on Internet Multimedia Services Architecture and Applications, IMSAA 2009. https://doi.org/10.1109/IMSAA.2009.5439499_
 
 ### Experience
 
