@@ -58,7 +58,7 @@ name = "gitlab"
 url = "https://gitlab.com/harsha5500"
 
 [[params.socialIcons]]
-name = "mastadon"
+name = "mastodon"
 url = "https://mastodon.social/@harshak"
 
 #[params.cover]
