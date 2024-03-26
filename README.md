@@ -1,11 +1,13 @@
 # My site
 
-This is a simple site I created using hugo.
+A simple profile site using Hugo. 
+
+Using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme created by [adityatelange](https://github.com/adityatelange)
 
 
 ## Build
 
-### For Sub-moduels (themes)
+### For Sub-module (themes)
 
 	git submodule update --recursive
 
@@ -17,8 +19,10 @@ This is a simple site I created using hugo.
 
 	hugo
 
-
 ## Run
 
 	hugo serve -D
 
+## Changelog
+
+- 2024-03-26 papermod updated
