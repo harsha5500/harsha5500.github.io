@@ -1,11 +1,11 @@
-# My site
+# Harsha Krishna
 
 A simple profile site using Hugo. 
 
 Using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme created by [adityatelange](https://github.com/adityatelange)
 
 
-## Build
+## Build and Run
 
 ### For Sub-module (themes)
 
@@ -19,7 +19,7 @@ Using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme creat
 
 	hugo
 
-## Run
+### Run
 
 	hugo serve -D
 
