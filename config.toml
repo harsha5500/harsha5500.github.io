@@ -33,6 +33,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+social = true
 
 [params.assets]
 favicon = "static/img/favicon.ico"
@@ -48,14 +49,10 @@ text = "Harsha Krishna"
 # iconHeight = 35
 
 [[params.socialIcons]]
-#name = "twitter"
-#url = "https://twitter.com/harsha5550"
-
-[[params.socialIcons]]
 name = "github"
 url = "https://github.com/harsha5500"
 
-[[params.socialIcons]]
+#[[params.socialIcons]]
 #name = "gitlab"
 #url = "https://gitlab.com/harsha5500"
 
