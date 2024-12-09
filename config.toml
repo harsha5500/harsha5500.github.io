@@ -1,9 +1,11 @@
 baseURL = 'https://kharsha.com'
 languageCode = 'en-us'
-title = 'Harsha K'
+title = 'Harsha Krishna'
 theme = "papermod"
-paginate = 5
 enableRobotsTXT = true
+
+[pagination]
+pagerSize = 5
 
 [minify]
 disableXML = true
@@ -11,11 +13,11 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Harsha K"
-description = "My Site"
+title = "Harsha Krishna"
+description = "Personal Site"
 keywords = ["Blog", "Portfolio", "Research"]
 author = "Harsha"
-images = ["<link or path of image for opengraph, twitter-cards>"]
+#images = ["<link or path of image for opengraph, twitter-cards>"]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -41,21 +43,21 @@ safari_pinned_tab = "static/img/apple_touch_icon.png"
 
 
 [params.label]
-text = "Harsha K"
+text = "Harsha Krishna"
 # icon = "static/img/apple_touch_icon.png"
 # iconHeight = 35
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/harsha5550"
+#name = "twitter"
+#url = "https://twitter.com/harsha5550"
 
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/harsha5500"
 
 [[params.socialIcons]]
-name = "gitlab"
-url = "https://gitlab.com/harsha5500"
+#name = "gitlab"
+#url = "https://gitlab.com/harsha5500"
 
 [[params.socialIcons]]
 name = "mastodon"
@@ -68,7 +70,7 @@ url = "https://mastodon.social/@harshak"
 
 [params.homeInfoParams]
 title = "Hello"
-content = "I develop simulation tools for generating what-if scenarios for decision making. I predominantly use Agent-Based Modelling (ABM) technique as most of my simulations model complex systems. In some cases, I have also extended existing tools to build a new model for a system. The tools are meant for research purposes and I follow industry friendly development mechanisms, such as unit-tests, automated builds and delivery on cloud platforms to the extent possible."
+content = "I am currently working on using graph dtabases to create visualizations to explore mental well-being of youth in Sweden. My broad research interest is in development of boundary objects."
 
 [[menu.main]]
 identifier = "home"
