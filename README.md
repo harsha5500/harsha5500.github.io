@@ -7,5 +7,6 @@ Using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme creat
 
 ## Changelog
 
-- 2024-03-26 Papermod updated
+- 2026-02-03 Updated publication list and paper mod theme.
 - 2024-12-09 Updated to the latest theme. Updated the content. 
+- 2024-03-26 Papermod updated
