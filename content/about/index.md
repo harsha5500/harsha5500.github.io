@@ -16,6 +16,7 @@ disableHLJS: true # to disable highlightjs
 
 ### Selected Publications
 
+- Krishna, Harsha, Alkhatib Najla, Luca Marzano, and Maksims Kornevs. “Modelling Dilemmas in Access to Specialised Healthcare Services in Sweden Using a Serious Game.” _International Journal of Serious Games, January 30, 2026, 223–44. [https://doi.org/10.17083/08aezk43](https://doi.org/10.17083/08aezk43)_
 - Kornevs, M., Krishna, H., & Orhan, I. (2023). "Framework for Using Professional Engineering Tools to Develop Games in Post-Secondary Education." _International Journal of Serious Games, 10(1), 39–52. [https://doi.org/10.17083/ijsg.v10i1.542](https://doi.org/10.17083/ijsg.v10i1.542)_
 - Bharath M. Palavalli, Harsha Krishna, Srijan Sil and Anirudh Thimmaiah. (2019). "Social Inclusion through Play, A New Methodology for Public Transport Planning in the Indian Context." _Thredbo 16, Singapore_.
 - Vaibhav Dutt, Srijan Sil, Harsha Krishna and Bharath M. Palavalli. (2019). "Imagining Futures – A generative scenario-based methodology to improve planning and decision-support systems for policymakers." _Zenodo [http://doi.org/10.5281/zenodo.3066348.](http://doi.org/10.5281/zenodo.3066348)_
